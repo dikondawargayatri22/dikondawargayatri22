@@ -2,8 +2,7 @@
 
 ### Full-Stack Software Engineer | React.js · Next.js · FastAPI · PostgreSQL
 
-I turn messy, manual business workflows into clean, automated products. I build production-grade web applications, from responsive role-based UIs to REST APIs and database integrations, and I'm comfortable working across the whole stack in Agile teams.
-
+I turn messy, manual business workflows into clean, automated products. I contribute to production-grade web applications in collaboration with an experienced tech team, working on everything from responsive role-based UIs to REST APIs and database integrations. I'm comfortable working across the Agile teams.
 ---
 
 ## 🔭 What I'm Working On
